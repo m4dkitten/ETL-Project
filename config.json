@@ -1,0 +1,21 @@
+{
+    "dbconfig":{
+        "user":"postgres",
+        "pwd":"postgres",
+        "db":"finalproject",
+        "host":"localhost",
+        "port":5432
+    },
+    
+    "dwhconfig":{
+        "user":"postgres",
+        "pwd":"postgres",
+        "db":"dwh_finalproject",
+        "host":"localhost",
+        "port":5432
+    },
+
+    "spark":{
+        "ip":"spark://Karen.localdomain:7077"
+    }
+}
